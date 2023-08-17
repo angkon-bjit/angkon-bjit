@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **Love to play guitar, games and meeting new people!!**
 
-<p align="left">
+<p align="left" >
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
